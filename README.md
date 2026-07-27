@@ -48,7 +48,7 @@ and it is also what led me deeper into emulation and low-level software.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐈‍⬛ SadPSX</h3>
+      <h3>🐈‍⬛ SadPSX (I'm not publishing yet.)</h3>
       <p>A PlayStation 1 emulator written from scratch in C#. My deepest dive into CPU architecture, memory, graphics and the beautifully strange PS1 hardware.</p>
       <p>
         <a href="https://github.com/kadu04t/SadPSX"><strong>Enter project →</strong></a>
@@ -56,7 +56,7 @@ and it is also what led me deeper into emulation and low-level software.
       <sub>C# · .NET · MIPS R3000A · Emulator Development</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>📡 Signal Room</h3>
+      <h3>📡 Signal Room (I'm not publishing yet.)</h3>
       <p>An immersive browser-based video room for tabletop RPG sessions, with cameras, overlays and director-controlled effects.</p>
       <p>
         <a href="https://github.com/kadu04t/signal-room"><strong>Enter project →</strong></a>
@@ -81,7 +81,7 @@ and it is also what led me deeper into emulation and low-level software.
 What started as curiosity became one of the fastest ways I have ever learned.
 
 - Contributing code and tests to [SharpEmu](https://github.com/sharpemu/sharpemu), a C# PS4/PS5 emulator.
-- Sent my first patch to the Linux kernel mailing list — and somehow my first real kernel conversation was with **Greg Kroah-Hartman**.
+- Sent my first patch to the Linux kernel mailing list.
 - Reading unfamiliar codebases, reproducing bugs, writing tests and learning how real projects review changes.
 
 <details>
