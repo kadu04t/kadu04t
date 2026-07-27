@@ -48,7 +48,7 @@ and it is also what led me deeper into emulation and low-level software.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐈‍⬛ SadPSX (🚧 In active development.)</h3>
+      <h3>🐈‍⬛ SadPSX </h3>
       <p>A PlayStation 1 emulator written from scratch in C#. My deepest dive into CPU architecture, memory, graphics and the beautifully strange PS1 hardware.</p>
       <p>
         <a href="https://github.com/kadu04t/SadPSX"><strong>Enter project →</strong></a>
