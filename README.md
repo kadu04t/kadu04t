@@ -98,7 +98,7 @@ What started as curiosity became one of the fastest ways I have ever learned.
   ```
 
   Some SharpEmu contributions:
-  [#380](https://github.com/sharpemu/sharpemu/pull/390) ·
+  [#390](https://github.com/sharpemu/sharpemu/pull/390) ·
   [#430](https://github.com/sharpemu/sharpemu/pull/430) ·
   [#453](https://github.com/sharpemu/sharpemu/pull/453)
 </details>
