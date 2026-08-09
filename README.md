@@ -57,7 +57,7 @@ and it is also what led me deeper into emulation and low-level software.
     </td>
     <td width="50%" valign="top">
       <h3>🌫️ lost in the White </h3>
-      <p>a PSX-inspired first-person horror game.</p>
+      <p>A PSX-inspired first-person horror game developed in Unity and C#. The game focuses on exploration, atmospheric environments, interactive systems, and retro-style visuals. Currently in active development.</p>
       <p>
         <a href="https://github.com/kadu04t/Lost-in-the-White-Game"><strong>Enter project →</strong></a>
       </p>
