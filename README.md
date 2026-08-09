@@ -56,12 +56,12 @@ and it is also what led me deeper into emulation and low-level software.
       <sub>C# · .NET · MIPS R3000A · Emulator Development</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>📡 Signal Room (🚧 In active development.)</h3>
-      <p>An immersive browser-based video room for tabletop RPG sessions, with cameras, overlays and director-controlled effects.</p>
+      <h3>🌫️ lost in the White </h3>
+      <p>a PSX-inspired first-person horror game.</p>
       <p>
-        <a href="https://github.com/kadu04t/signal-room"><strong>Enter project →</strong></a>
+        <a href="https://github.com/kadu04t/Lost-in-the-White-Game"><strong>Enter project →</strong></a>
       </p>
-      <sub>WebRTC · Real-time Web · RPG Tools · UI/UX</sub>
+      <sub>C# · Shaders · Unity · Blender</sub>
     </td>
   </tr>
 </table>
