@@ -81,7 +81,7 @@ and it is also what led me deeper into emulation and low-level software.
 What started as curiosity became one of the fastest ways I have ever learned.
 
 - Contributing code and tests to [SharpEmu](https://github.com/sharpemu/sharpemu), a C# PS4/PS5 emulator.
-- Sent my first patch to the Linux kernel mailing list.
+- First Linux kernel patch merged into mainline - [Linux 7.3](https://github.com/torvalds/linux/commit/c16ce856e422e73a54c41131e0332de1afe09b8b).
 - Reading unfamiliar codebases, reproducing bugs, writing tests and learning how real projects review changes.
 
 <details>
